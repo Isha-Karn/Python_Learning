@@ -1,8 +1,0 @@
- bought b 5 at Rs50
-  bought u 9 at Rs99
-  bought u 9 at Rs99
-  bought Apples 10 at Rs200
-  bought Potatoes 2 at Rs100
-  bought MEat 2 at Rs300
-  bought potato 2 at Rs100
- 
