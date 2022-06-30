@@ -1,5 +1,5 @@
 with open("currencyData.txt") as f:
- 	lines= f.readlines()
+	lines= f.readlines()
 
 currencyDict={}
 for line in lines:
